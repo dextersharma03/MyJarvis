@@ -20,13 +20,6 @@ def talkToMe(d):
     "speaks audio passed as argument"
 
     print(d)
-    #for line in audio.splitlines():
-      #  os.system("say " + d)
-
-    #  use the system's inbuilt say command instead of mpg123
-    #  text_to_speech = gTTS(text=d, lang='en')
-    #  text_to_speech.save('d.mp3')
-    #  os.system('mpg123 d.mp3')
 
     print('Hello Mr Dexter, I’m your assistant Jarvis')
 
